@@ -14,7 +14,11 @@ https://xd.adobe.com/view/3d1257fe-6b22-4b1e-5e5c-326817c8ae83-4b23/?fullscreen&
 - I collected my data from the New York Department of Health website and looked for alternative ways to make the data more easily accessible and easier to read since it was all in chart form. To make it into a map where you can more easily access and view where and what areas might have the highest concentration of children diagnosed with cancer. 
 
 # Visualizing
-- The visualization was done to make the data more personal. If you were to see on the map and look up where you live, for example, Bed-Stuy, then you could see exactly how many average childhood cancer incidents there are in your neighborhood, which makes the whole situation a bit more daunting and real to the viewer. My intention was not to scare the viewer but actually to make more known and obvious the data.
+- The visualization was done to make the data more personal. If you were to see on the map and look up where you live, for example, Bed-Stuy, then you could see exactly how many average childhood cancer incidents there are in your neighborhood, which makes the whole situation a bit more daunting and real to the viewer. My intention was not to scare the viewer but actually to make more known and obvious the data. Once I had collected all the data, I first created a mockup of the interface that I intended to create. And using Adobe XD I created the working prototype of the visualization in website form. I had never used Adobe XD but I got the hang of it pretty quickly and was able to link every element on the page to an artboard which in turn was generated into working links and output onto an XD weblink.
+
+The visualization had to be in interactive so that people could personally see and pinpoint where they live, by borough and see which neighborhoods had the highest amount of cancer rates in children and not.
 
 # Analysis
 - When I was looking at the data, all I saw were numbers and really numbers are difficult to understand. People are visual learners so I was able to cleanup the data into a map so that you can directly go to your neighborhood or borough and see exactly how many cancer incidences there were in the past 5 years.
+
+I learned so much from this final project. In learning about exactly what areas are in certain boroughs of NYC and how many children are diagnosed with cancer. I didn't actually look up my own neighborhood until I was done and I was happy to learn that Queens County is the lowest amount of children diagnosed with cancer.
