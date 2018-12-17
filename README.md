@@ -16,7 +16,11 @@ https://xd.adobe.com/view/3d1257fe-6b22-4b1e-5e5c-326817c8ae83-4b23/?fullscreen&
 ![alt text](https://github.com/raaycho/Final_2018/blob/master/Screen%20Shot%202018-12-17%20at%2012.36.59%20AM.png)
 
 # Visualizing
-- The visualization was done to make the data more personal. If you were to see on the map and look up where you live, for example, Bed-Stuy, then you could see exactly how many average childhood cancer incidents there are in your neighborhood, which makes the whole situation a bit more daunting and real to the viewer. My intention was not to scare the viewer but actually to make more known and obvious the data. Once I had collected all the data, I first created a mockup of the interface that I intended to create. And using Adobe XD I created the working prototype of the visualization in website form. I had never used Adobe XD but I got the hang of it pretty quickly and was able to link every element on the page to an artboard which in turn was generated into working links and output onto an XD weblink.
+- The visualization was done to make the data more personal. If you were to see on the map and look up where you live, for example, Bed-Stuy, then you could see exactly how many average childhood cancer incidents there are in your neighborhood, which makes the whole situation a bit more daunting and real to the viewer. My intention was not to scare the viewer but actually to make more known and obvious the data. Once I had collected all the data, I first created a mockup of the interface that I intended to create. And using Adobe XD I created the working prototype of the visualization in website form. 
+
+![alt text](https://github.com/raaycho/Final_2018/blob/master/Screen%20Shot%202018-12-17%20at%2012.49.11%20AM.png)
+
+I had never used Adobe XD but I got the hang of it pretty quickly and was able to link every element on the page to an artboard which in turn was generated into working links and output onto an XD weblink.
 
 ![alt text](https://github.com/raaycho/Final_2018/blob/master/Screen%20Shot%202018-12-17%20at%2012.36.40%20AM.png)
 
