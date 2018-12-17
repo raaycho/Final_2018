@@ -18,6 +18,9 @@ https://xd.adobe.com/view/3d1257fe-6b22-4b1e-5e5c-326817c8ae83-4b23/?fullscreen&
 # Visualizing
 - The visualization was done to make the data more personal. If you were to see on the map and look up where you live, for example, Bed-Stuy, then you could see exactly how many average childhood cancer incidents there are in your neighborhood, which makes the whole situation a bit more daunting and real to the viewer. My intention was not to scare the viewer but actually to make more known and obvious the data. Once I had collected all the data, I first created a mockup of the interface that I intended to create. And using Adobe XD I created the working prototype of the visualization in website form. I had never used Adobe XD but I got the hang of it pretty quickly and was able to link every element on the page to an artboard which in turn was generated into working links and output onto an XD weblink.
 
+![alt text](https://github.com/raaycho/Final_2018/blob/master/Screen%20Shot%202018-12-17%20at%2012.36.40%20AM.png)
+
+
 The visualization had to be in interactive so that people could personally see and pinpoint where they live, by borough and see which neighborhoods had the highest amount of cancer rates in children and not. Originally, the visuals were very simple but as I designed on, I realized that maybe you wouldn't be able to get a full picture of what the cancer rates look like if it were just to show different boroughs, so I color coded the darkest color as the heaviest in incidences and the lightest colors with the least amount, but this isn't to say that there are very few incidences. It just helps to better locate and understand and relate to colors, and so I also added a graph next to the borough of click choice.
 
 # Analysis
