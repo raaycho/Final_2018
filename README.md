@@ -14,7 +14,7 @@ Procedure
 Collecting
 - I collected my data from the New York Department of Health website and looked for alternative ways to make the data more easily accessible and easier to read since it was all in chart form. To make it into a map where you can more easily access and view where and what areas might have the highest concentration of children diagnosed with cancer.
 
-Visualizing
+#H2 Visualizing
 The visualization was done to make the data more personal. If you were to see on the map and look up where you live, for example, Bed-Stuy, then you could see exactly how many average childhood cancer incidents there are in your neighborhood, which makes the whole situation a bit more daunting and real to the viewer. My intention was not to scare the viewer but actually to make more known and obvious the data.
 
 
