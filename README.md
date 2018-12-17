@@ -23,6 +23,8 @@ https://xd.adobe.com/view/3d1257fe-6b22-4b1e-5e5c-326817c8ae83-4b23/?fullscreen&
 
 The visualization had to be in interactive so that people could personally see and pinpoint where they live, by borough and see which neighborhoods had the highest amount of cancer rates in children and not. Originally, the visuals were very simple but as I designed on, I realized that maybe you wouldn't be able to get a full picture of what the cancer rates look like if it were just to show different boroughs, so I color coded the darkest color as the heaviest in incidences and the lightest colors with the least amount, but this isn't to say that there are very few incidences. It just helps to better locate and understand and relate to colors, and so I also added a graph next to the borough of click choice.
 
+![alt text](https://github.com/raaycho/Final_2018/blob/master/Screen%20Shot%202018-12-17%20at%2012.36.45%20AM.png)
+
 # Analysis
 - When I was looking at the data, all I saw were numbers and really numbers are difficult to understand. People are visual learners so I was able to cleanup the data into a map so that you can directly go to your neighborhood or borough and see exactly how many cancer incidences there were in the past 5 years.
 
